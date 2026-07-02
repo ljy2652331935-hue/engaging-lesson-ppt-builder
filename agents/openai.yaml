@@ -1,0 +1,4 @@
+interface:
+  display_name: "Engaging Lesson PPT Builder"
+  short_description: "Build vivid classroom lesson decks"
+  default_prompt: "Use $engaging-lesson-ppt-builder to create an engaging high-school lesson deck with teacher notes and visual QA."
